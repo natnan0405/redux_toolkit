@@ -44,6 +44,7 @@ yarn add @reduxjs/toolkit
 ## 文档
 
 Redux Toolkit 完整的文档在这里 **[https://redux-toolkit.js.org](https://redux-toolkit.js.org/)**。
+
 Redux Toolkit 中文文档 大牛翻译 **[https://redux-toolkit-cn.netlify.app](https://redux-toolkit-cn.netlify.app)**。
 -   **简介**
     -   [快速开始](https://redux-toolkit.js.org/introduction/quick-start)
