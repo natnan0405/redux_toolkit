@@ -43,13 +43,9 @@ yarn add @reduxjs/toolkit
 
 ## 文档
 
-<<<<<<< HEAD
-Redux Toolkit 完整的文档在这里 **[https://redux-toolkit.js.org](https://redux-toolkit.js.org/)**.
-=======
 Redux Toolkit 完整的文档在这里 **[https://redux-toolkit.js.org](https://redux-toolkit.js.org/)**。
 
 Redux Toolkit 中文文档 大牛翻译 **[https://redux-toolkit-cn.netlify.app](https://redux-toolkit-cn.netlify.app)**。
->>>>>>> f1b73e435d91084722ef4a8d6b7fe4bc72cb323d
 -   **简介**
     -   [快速开始](https://redux-toolkit.js.org/introduction/quick-start)
 -   **教程**
@@ -65,8 +61,4 @@ Redux Toolkit 中文文档 大牛翻译 **[https://redux-toolkit-cn.netlify.app]
     -   [`createAction`](https://redux-toolkit.js.org/api/createAction)
     -   [`createSlice`](https://redux-toolkit.js.org/api/createSlice)
     -   [`createSelector`](https://redux-toolkit.js.org/api/createSelector)
-<<<<<<< HEAD
     -   [其他 Export](https://redux-toolkit.js.org/api/other-exports)
-=======
-    -   [其他 Export](https://redux-toolkit.js.org/api/other-exports)
->>>>>>> f1b73e435d91084722ef4a8d6b7fe4bc72cb323d
